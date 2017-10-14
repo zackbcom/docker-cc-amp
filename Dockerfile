@@ -51,3 +51,4 @@ RUN ln -s /ampdata /home/AMP/.ampdata
 
 # Expose ports.
 EXPOSE 8080
+EXPOSE 8123
